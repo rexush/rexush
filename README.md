@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[_LinkedIn_](https://www.linkedin.com/in/husnisabar592/) 
 
 ### Github Statistic
 <p align="left">
@@ -23,3 +22,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rexush&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+<a href="https://linkedin.com/in/husnisabar592" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="husnisabar" height="30" width="40" />
+      </a>
